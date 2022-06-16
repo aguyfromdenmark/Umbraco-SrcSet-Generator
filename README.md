@@ -15,6 +15,6 @@ As said, the operation is dependent on [lazysizes](https://afarkas.github.io/laz
 [Slimsy](https://github.com/Jeavon/Slimsy "Slimsy") used an extension of the UrlHelper. This is a service that you can inject directly into your view. Just do `@inject UmbracoSrcSetGeneratorService srcSetGenService` or similar. 
 
 ## What can I expect in the future
-Don't expect anything. I am a 9-to-5 developer, and the chance that I will ever do any more work in the repo, is very slim (heh). I am amazed I even did this in the first place. Also, if the license file is filled out wrong, let me know, I am not trying to screw anyone out of their credits. Anyway...
+Don't expect much, if anything. But feel free to do with it whatever you want. Also, if the license file is filled out wrong, let me know, I am not trying to screw anyone out of their credits. Anyway...
 
 **Have fun!**
